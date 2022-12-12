@@ -5,3 +5,4 @@
 -peut etre une page d'info spoil
 -mettre des filtres pour les différents affichages
 -peut etre une sorte de forum
+-une barre de recherche pour chercher ce que l'on veut
