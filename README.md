@@ -1,4 +1,7 @@
 # OnePiece encyclopédie
+
+Application sur Android
+
 premier rendu:
 -plusieurs pages d'informations (fruits du démons, personnages, équipages, arcs)
 -une page d'info twitter (sans spoil)
